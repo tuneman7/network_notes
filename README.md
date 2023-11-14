@@ -2,6 +2,11 @@
 
 https://faun.pub/how-to-manually-build-your-own-k8s-cluster-from-scratch-using-kubeadm-fcf87fdb615c
 
+
+https://www.cherryservers.com/blog/install-kubernetes-on-ubuntu
+
+
+
 master node:
 
 name       ip
