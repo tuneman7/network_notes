@@ -10,6 +10,8 @@ ubuntu     192.168.50.235  -- Master
 don-MG40      192.168.50.166  -- Worker 1    
 ubuntu-MG40   192.168.50.167  -- Worker 1    
 
+ssh ubuntu@192.168.50.167    
+ssh don@192.168.50.166
 
 https://medium.com/codex/setup-a-spark-cluster-step-by-step-in-10-minutes-922c06f8e2b1    
 
