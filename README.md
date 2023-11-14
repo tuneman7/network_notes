@@ -6,6 +6,8 @@ https://faun.pub/how-to-manually-build-your-own-k8s-cluster-from-scratch-using-k
 https://www.cherryservers.com/blog/install-kubernetes-on-ubuntu
 
 
+https://microk8s.io/docs/getting-started
+
 
 master node:
 
