@@ -6,8 +6,7 @@ master node:
 
 name       ip
 
-ubuntu     192.168.50.235  -- Master
-
-don-MG40      192.168.50.166  -- Worker 1
-ubuntu-MG40   192.168.50.167  -- Worker 1
+ubuntu     192.168.50.235  -- Master    
+don-MG40      192.168.50.166  -- Worker 1    
+ubuntu-MG40   192.168.50.167  -- Worker 1    
 
