@@ -7,6 +7,3 @@ sudo chown -f -R $USER ~/.kube
 
 su - $USER
 
-microk8s status --wait-ready
-
-microk8s kubectl get nodes
