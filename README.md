@@ -22,6 +22,7 @@ ssh don@192.168.50.166
 
 https://medium.com/codex/setup-a-spark-cluster-step-by-step-in-10-minutes-922c06f8e2b1    
 
+microk8s kubectl get nodes
 
 sudo ufw allow 6443    
 sudo ufw allow 2379    
